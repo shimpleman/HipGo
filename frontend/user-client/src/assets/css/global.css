@@ -1,0 +1,6 @@
+/* 在项目的全局样式文件中添加以下代码 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
